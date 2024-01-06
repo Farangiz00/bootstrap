@@ -1,0 +1,90 @@
+.work1 {
+    width: 100%;
+    background-color: #FBF8FE;
+}
+
+/* work */
+.work .container {
+    background-image: linear-gradient(#6813cc , #2575fc);
+    height: 80vh;
+    border-radius: 20px;
+    margin: 30px auto;
+}
+.work .row .fa-check {
+    color: #ff0844;
+    font-size: 20px;
+    font-weight: bold;
+}
+.work .fa-star {
+    color: #f83600;
+}
+#work-blok2 {
+    margin-top: 30px;
+    padding: 35px;
+}
+#work-blok2 img {
+    width: 50%;
+}
+#work-blok2 .card {
+    padding: 70px;
+}
+#work-blok2 .text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 18px;
+    color: #7d889a;
+}
+/* popular */
+.button-group {
+    display: flex;
+    justify-content: center;
+}
+.popular {
+    padding-top: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* certificate */
+.certificate i {
+    background-image: linear-gradient(#6A11CB , #306BF7);
+    font-size: 30px;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+}
+.certificate .card:hover {
+    background-image: linear-gradient(#6A11CB , #306BF7);
+    color: white;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.certificate .card:hover i {
+    background-image: none;
+    background-color: white;
+    color: #306BF7;
+}
